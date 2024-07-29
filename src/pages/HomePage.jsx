@@ -7,6 +7,7 @@ import ChairZone from "../component/home/ChairZone";
 import TopBrand from "../component/home/TopBrand";
 import FeedBack from "../component/home/FeedBack";
 import Subscribe from "../component/home/Subscribe";
+import Blog from "../component/home/Blog";
 
 const HomePage = () => {
   return (
@@ -15,8 +16,10 @@ const HomePage = () => {
       <Banner />
       <ProductZone />
       <ChairZone />
-      <FeedBack />
+
       <Subscribe />
+      <Blog />
+      <FeedBack />
       <TopBrand />
       <Footer />
     </>
