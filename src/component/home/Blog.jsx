@@ -26,8 +26,8 @@ const Blog = () => {
             </h3>
             <h1 className="text-[20px]">DOUBLE SOFA- ATHENS</h1>
             <p className="text-[16px] font-ROBOTO pt-5 pb-9 text-[#979797]">
-              "Elegant, ergonomic dining chair with premium materials and modern
-              design."
+              "Elegant, ergonomic dining chair with premium materials and <br />{" "}
+              modern design."
             </p>
             <Link to="/">Read more</Link>
             <hr className="bg-black h-1 w-[100px]" />
@@ -48,8 +48,8 @@ const Blog = () => {
             </h3>
             <h1 className="text-[20px]">DOUBLE SOFA- ATHENS</h1>
             <p className="text-[16px] font-ROBOTO pt-5 pb-9 text-[#979797]">
-              "Elegant, ergonomic dining chair with premium materials and modern
-              design."
+              "Elegant, ergonomic dining chair with premium materials and <br />{" "}
+              modern design."
             </p>
             <Link to="/">Read more</Link>
             <hr className="bg-black h-1 w-[100px]" />
@@ -70,8 +70,8 @@ const Blog = () => {
             </h3>
             <h1 className="text-[20px]">DOUBLE SOFA- ATHENS</h1>
             <p className="text-[16px] font-ROBOTO pt-5 pb-9 text-[#979797]">
-              "Elegant, ergonomic dining chair with premium materials and modern
-              design."
+              "Elegant, ergonomic dining chair with premium materials and <br />{" "}
+              modern design."
             </p>
             <Link to="/">Read more</Link>
             <hr className="bg-black h-1 w-[100px]" />
