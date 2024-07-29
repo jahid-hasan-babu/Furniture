@@ -62,7 +62,7 @@ const Footer = () => {
       </div>
       <div className="pb-10 w-[90%] mx-auto flex">
         <hr className="bg-black w-[80%] h-[3px] my-5" />
-        <div className="ml-5 space-x-5 text-[15px] font-Poppins">
+        <div className="ml-5 space-x-5 mt-3 text-[15px] font-Poppins">
           <span>Terms</span>
           <span>Privacy</span>
           <span>Cookies</span>

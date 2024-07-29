@@ -9,6 +9,7 @@ import FeedBack from "../component/home/FeedBack";
 import Subscribe from "../component/home/Subscribe";
 import Blog from "../component/home/Blog";
 import NewArrival from "../component/home/NewArrival";
+import BestDeal from "../component/home/BestDeal";
 
 const HomePage = () => {
   return (
@@ -18,6 +19,7 @@ const HomePage = () => {
       <ProductZone />
       <ChairZone />
       <NewArrival />
+      <BestDeal />
       <Subscribe />
       <Blog />
       <FeedBack />
