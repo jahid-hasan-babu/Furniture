@@ -6,6 +6,7 @@ import ProductZone from "../component/home/ProductZone";
 import ChairZone from "../component/home/ChairZone";
 import TopBrand from "../component/home/TopBrand";
 import FeedBack from "../component/home/FeedBack";
+import Subscribe from "../component/home/Subscribe";
 
 const HomePage = () => {
   return (
@@ -14,8 +15,9 @@ const HomePage = () => {
       <Banner />
       <ProductZone />
       <ChairZone />
-      <TopBrand />
       <FeedBack />
+      <Subscribe />
+      <TopBrand />
       <Footer />
     </>
   );
